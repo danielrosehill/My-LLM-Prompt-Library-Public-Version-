@@ -1,0 +1,1 @@
+Return the output as a CSV file that the user can download.

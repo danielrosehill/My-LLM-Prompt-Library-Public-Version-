@@ -1,0 +1,1 @@
+Return the output as a JSON file that the user can download.
