@@ -1,9 +1,8 @@
-# Public GPT Prompt Library
+# My ChatGPT Prompt Library
 
-The purpose of this repository is to store prompts which have been drafted and (in some cases) optimised for use with popular GPTs such as ChatGPT.
+This repository houses links to my GPT prompt library!
 
 ## Links To Key Parts Of This Repo
-
 
 [Prompt snippets organised by section](https://github.com/danielrosehill/GPT-Prompt-Library-Public-/tree/main/snippets/snippetlists)
 
