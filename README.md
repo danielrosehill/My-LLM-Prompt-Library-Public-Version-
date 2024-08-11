@@ -1,10 +1,14 @@
-# My ChatGPT Prompt Library
+# My ChatGPT Prompt Workspace/Library
 
-This repository houses links to my GPT prompt library!
+![Prompting sloth](/images/banner.webp)
 
-## Links To Key Parts Of This Repo
+This repository is both a `prompt library`  (in the sense of containing prompts that I've finished working with, for now) as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
 
-[Prompt snippets organised by section](https://github.com/danielrosehill/GPT-Prompt-Library-Public-/tree/main/snippets/snippetlists)
+## System / Structure
+
+- A **prompt workspace** for drafting prompts
+- A **prompt library** for storing successful prompts for reuse
+- A **prompts run** for recording *all* prompts run including those not worth committing into the prompt library 
 
  ## Author
  
