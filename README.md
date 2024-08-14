@@ -4,6 +4,10 @@
 
 This repository is both a `prompt library`  (in the sense of containing prompts that I've finished working with, for now) as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
 
+For some of the most useful ones, see:
+
+`favorites.md`
+
 ## System / Structure
 
 - A **prompt workspace** for drafting prompts
