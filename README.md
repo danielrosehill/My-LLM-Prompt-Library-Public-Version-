@@ -8,6 +8,12 @@ For some of the most useful ones, see:
 
 `favorites.md`
 
+## Simple Prompt Extraction GUI
+
+See `GUIs` for a prompt to create a simple (but functional!) Python GUI for saving and extracting prompts into a local prompt library/repository.
+
+![alt text](Screenshots/1.png)
+
 ## System / Structure
 
 - A **prompt workspace** for drafting prompts
