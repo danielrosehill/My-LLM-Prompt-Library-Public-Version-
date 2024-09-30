@@ -1,4 +1,4 @@
-# My ChatGPT Prompt Workspace/Library
+# Daniel Rosehill's LLM Prompt Library (Public Version)
 
 ![Prompting sloth](/images/banner.webp)
 
