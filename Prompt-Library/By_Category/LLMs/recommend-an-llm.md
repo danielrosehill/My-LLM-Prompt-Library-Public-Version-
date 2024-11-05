@@ -1,4 +1,6 @@
-# Prompting Strategy: Use An LLM To Recommend A Local LLM Optimised For Your Hardware
+# Prompting Strategy: Use A Cloud LLM To Recommand A Local LLM!
+
+![alt text](../../../images/headers/androids_shopping.webp)
 
 *(Also: how to set context really easily by saving a few PNGs!*)*
 
