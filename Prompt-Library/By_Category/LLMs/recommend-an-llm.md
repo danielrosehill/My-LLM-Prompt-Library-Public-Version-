@@ -20,6 +20,10 @@ It doesn't have to be anything fancy (and it certainly doesn't need to be RAG or
 
 ![alt text](../../../images/example-context-repo.png)
 
+Or being less lazy, format your data in as a simple markdown files, with the specs formatted as a table, like this:
+
+![alt text](../../../images/localllm/md_table.png)
+
 I've experimented with noting my hardware parameters in both `JSON` format and (latterly, after I moved to a new OS) by being a bit lazy and just taking a screenshot of a previous note.
 
 Like this:
