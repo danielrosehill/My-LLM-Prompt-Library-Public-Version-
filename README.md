@@ -8,7 +8,11 @@ For some of the most useful ones, see:
 
 `favorites.md`
 
-## Simple Prompt Extraction GUI
+## The Main Part Of This Repo
+
+[- Prompts organised by category](https://github.com/danielrosehill/My-LLM-Prompt-Library-Public-Version-/tree/main/Prompt-Library/By_Category)
+
+## Also Useful: A Simple Prompt Extraction GUI
 
 See `GUIs` for a prompt to create a simple (but functional!) Python GUI for saving and extracting prompts into a local prompt library/repository.
 
