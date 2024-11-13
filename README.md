@@ -2,17 +2,45 @@
 
 ![Prompting sloth](/images/banner.webp)
 
-This repository is both a `prompt library`  (in the sense of containing prompts that I've finished working with, for now) as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
+This repository is both a `prompt library`  *(in the sense of containing prompts that I've finished working with, for now)* as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
 
 For some of the most useful ones, see:
 
 `favorites.md`
 
+---
+
+## Example Prompt
+
+I love discovering new use-cases and prompting strategies for LLMs!
+
+Prompting and "prompt engineering" doesn't have to be complicated. 
+
+My favorite method for making LLMs much more useful is storing an inventory of: previous prompts; previous outputs; context-settings snippets. 
+
+For want of a better word, I call it my LLM "Workbench" (although I'm working on a formal GUI for it, it could just as easily be a collection of markdown files in a Github repo!)
+
+Here's a very simple use-case:
+
+- Invest time and effort in writing a very detailed "stack research" prompt  
+- Save it to your prompt library as a markdown or text file (if there's formatting that helps to show the prompt's structure, markdown is preferred)  
+- Before you run it, feed it through an LLM and ask for tips to improve it  
+
+![alt text](images/sample-prompts/1.png)
+
+And this gets you:
+
+![alt text](images/sample-prompts/2.png)
+
+---
+
 ## The Main Part Of This Repo
 
 [- Prompts organised by category](https://github.com/danielrosehill/My-LLM-Prompt-Library-Public-Version-/tree/main/Prompt-Library/By_Category)
 
-## Also Useful: A Simple Prompt Extraction GUI
+---
+
+## This Might Be Useful: GUI For Automatic Prompt Extraction
 
 See `GUIs` for a prompt to create a simple (but functional!) Python GUI for saving and extracting prompts into a local prompt library/repository.
 
