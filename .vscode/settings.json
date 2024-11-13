@@ -15,6 +15,10 @@
         {
             "filePath": "Prompt-Library/Snippets",
             "group": "Default"
+        },
+        {
+            "filePath": "images/context-images",
+            "group": "Default"
         }
     ],
     "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: main]"
