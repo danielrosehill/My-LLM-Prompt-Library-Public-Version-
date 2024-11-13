@@ -3,6 +3,19 @@
         {
             "filePath": "Prompt-Library/By_Category/Stack-Research/Deep-Stack-Research/OldVersions",
             "group": "Default"
+        },
+        {
+            "filePath": "Prompt-Library",
+            "group": "Default"
+        },
+        {
+            "filePath": "Prompt-Library/By_Category",
+            "group": "Default"
+        },
+        {
+            "filePath": "Prompt-Library/Snippets",
+            "group": "Default"
         }
-    ]
+    ],
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: main]"
 }
