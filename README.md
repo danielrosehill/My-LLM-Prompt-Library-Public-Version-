@@ -40,6 +40,8 @@ And this gets you:
 
 [- Prompts organised by category](https://github.com/danielrosehill/My-LLM-Prompt-Library-Public-Version-/tree/main/Prompt-Library/By_Category)
 
+`Context-Setting` contains some examples of contextual data that is used in some of the prompts (and outputs) demonstrated.
+
 ---
 
 ## A Big Glob Of Prompts And Outputs
