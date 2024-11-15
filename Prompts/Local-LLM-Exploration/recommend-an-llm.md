@@ -1,4 +1,4 @@
-# Prompting Strategy: Use A Cloud LLM To Recommand A Local LLM!
+# Prompting Strategy: Use A Cloud LLM To Recommend A Local LLM!
 
 ![alt text](../../../images/headers/androids_shopping.webp)
 
