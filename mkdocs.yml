@@ -1,0 +1,16 @@
+site_name: Daniel Rosehill Prompt Library
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+plugins:
+    - search
+    - gen_nav
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
