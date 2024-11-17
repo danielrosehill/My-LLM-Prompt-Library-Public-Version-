@@ -1,6 +1,8 @@
 # Daniel Rosehill's LLM Prompt Library (Public Version)
 
-![Prompting sloth](/images/banner.webp)
+ ![alt text](docs/images/banner.webp)
+
+[![Visit Website](https://img.shields.io/badge/Visit-Website-brightgreen)](https://prompts.bydanielrosehill.com/)
 
 This repository is both a `prompt library`  *(in the sense of containing prompts that I've finished working with, for now)* as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
 
@@ -28,11 +30,11 @@ The steps:
 - Save it to your prompt library as a markdown or text file (if there's formatting that helps to show the prompt's structure, markdown is preferred)  
 - Before you run it, feed it through an LLM and ask for tips to improve it  
 
-![alt text](images/sample-prompts/1.png)
+ ![alt text](docs/images/sample-prompts/1.png)
 
 And this gets you:
 
-![alt text](images/sample-prompts/2.png)
+ ![alt text](docs/images/sample-prompts/2.png)
 
 ---
 
@@ -57,8 +59,8 @@ I've shared some of my prompts and outputs on:
 
 See `GUIs` for a prompt to create a simple (but functional!) Python GUI for saving and extracting prompts into a local prompt library/repository.
 
-![alt text](Screenshots/1.png)
-
+ ![alt text](docs/images/screenshots/1.png)
+ 
 ---
 
 ## System / Structure
