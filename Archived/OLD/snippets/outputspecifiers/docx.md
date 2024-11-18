@@ -1,1 +1,0 @@
-Return the output as a docx file that the user can download.
