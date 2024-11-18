@@ -60,7 +60,7 @@ I've shared some of my prompts and outputs on:
 See `GUIs` for a prompt to create a simple (but functional!) Python GUI for saving and extracting prompts into a local prompt library/repository.
 
  ![alt text](docs/images/screenshots/1.png)
- 
+
 ---
 
 ## System / Structure
@@ -68,9 +68,10 @@ See `GUIs` for a prompt to create a simple (but functional!) Python GUI for savi
 - A **prompt workspace** for drafting prompts
 - A **prompt library** for storing successful prompts for reuse
 - A **prompts run** for recording *all* prompts run including those not worth committing into the prompt library 
----
 
- ## Author
+
+
+## Author
  
  Daniel Rosehill  
  (public at danielrosehill dot com)

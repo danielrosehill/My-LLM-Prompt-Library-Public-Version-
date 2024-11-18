@@ -1,0 +1,58 @@
+/* Apply Open Sans as the body font */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif; /* Update to use Open Sans */
+    color: rgb(34, 31, 31);
+}
+
+h1, h2 {
+    font-size: 1.5rem !important;
+    font-family: 'Poppins', sans-serif; /* Update to use Poppins */
+    border-bottom: 1px solid #e0e0e0; /* Adds a faint line under h1 and h2 */
+    padding-bottom: 0.5rem; /* Adds space between text and the line */
+}
+
+/* Headings styling */
+h3 {
+    font-size: 1.2rem !important;
+    font-family: 'Poppins', sans-serif; /* Update to use Poppins */
+    border-bottom: 1px solid #e0e0e0; /* Adds a faint line under h3 */
+    padding-bottom: 0.5rem; /* Adds space between text and the line */
+}
+
+
+/* Table row styling */
+.md-typeset table tr {
+    font-size: 0.8rem;
+    font-family: 'Open Sans', sans-serif; /* Update to use Open Sans */
+}
+
+/* List items, code, and highlight styling */
+ul, ol, li, code, highlight {
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif; /* Update to use Open Sans */
+}
+
+/* Blockquote styling */
+blockquote {
+    background-color: #f5f1f1;
+    border-left: 5px solid #ccc;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif; /* Update to use Open Sans */
+}
+
+/* Apply Poppins to the site title */
+.md-nav__title, .md-header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+/* Apply Poppins to navigation menu items */
+.header-nav-item a {
+    font-family: 'Poppins', sans-serif;
+}

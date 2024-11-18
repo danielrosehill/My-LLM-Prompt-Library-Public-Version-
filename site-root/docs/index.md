@@ -1,6 +1,8 @@
-# Daniel Rosehill's LLM Prompt Library (Public Version)
+# Welcome To Daniel's Prompt Library!
 
 ![Prompting sloth](/images/banner.webp)
+
+*Photo: Daniel seen working hard on his latest LLM prompt*
 
 This repository is both a `prompt library`  *(in the sense of containing prompts that I've finished working with, for now)* as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
 
@@ -36,14 +38,6 @@ And this gets you:
 
 ---
 
-## The Main Part Of This Repo
-
-[- Prompts organised by category](https://github.com/danielrosehill/My-LLM-Prompt-Library-Public-Version-/tree/main/Prompt-Library/By_Category)
-
-`Context-Setting` contains some examples of contextual data that is used in some of the prompts (and outputs) demonstrated.
-
----
-
 ## A Big Glob Of Prompts And Outputs
 
 I've shared some of my prompts and outputs on:
@@ -67,31 +61,29 @@ See `GUIs` for a prompt to create a simple (but functional!) Python GUI for savi
 - A **prompt library** for storing successful prompts for reuse
 - A **prompts run** for recording *all* prompts run including those not worth committing into the prompt library 
 ---
+## Author
 
- ## Author
- 
- Daniel Rosehill  
- (public at danielrosehill dot com)
- 
- ---
+Daniel Rosehill  
+(public at danielrosehill dot com)
 
- ## Licensing
- 
- All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
- 
- ---
+---
+## Licensing
 
- ### Summary of the License
- The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
- - **Share**: Copy and redistribute the material in any medium or format.
- - **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
- 
- The licensor cannot revoke these freedoms as long as you follow the license terms.
- 
- ---
- 
- #### License Terms
- - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
- - **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
- 
- For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
+All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+### Summary of the License
+The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+---
+
+#### License Terms
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).

@@ -2,6 +2,10 @@ site_name: Daniel Rosehill Prompt Library
 
 theme:
   name: material
+  features:
+    - content.code.copy
+extra_css:
+  - 'css/custom.css'
 
 nav:
   - Home: index.md
