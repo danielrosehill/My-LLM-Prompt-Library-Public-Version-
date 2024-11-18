@@ -1,6 +1,6 @@
 # Welcome To Daniel's Prompt Library!
 
-![Prompting sloth](/images/banner.webp)
+![Prompting sloth](images/banner.webp)
 
 *Photo: Daniel seen working hard on his latest LLM prompt*
 
