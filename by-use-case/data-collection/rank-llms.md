@@ -13,10 +13,6 @@ keywords:
   - Mistral
 author: "Daniel Rosehill" # Assuming you're the author unless specified otherwise
 date: "2024-11-19" .
-categories:
-  - LLMs
-  - Data Analysis
-  - Comparisons
 robots: "index, follow"
 og_title: "LLM Ranking by Training Data Cutoff"
 og_description: "A comparison of major LLMs based on how recent their training data is."

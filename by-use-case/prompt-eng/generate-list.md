@@ -10,12 +10,10 @@ keywords:
   - "advanced prompting"
 author: "Daniel Rosehill"
 date: "2024-11-19"
-robots: "index, follow"
-social:
-  cards:
-    image: https://docs.bydanielrosehill.com/repos/prompt-library/images/prompt-lab.webp
+robots: "index, follow" 
 og_title: "Using LLMs to Generate Prompt Engineering Techniques & Lists"
 og_description: "A comprehensive guide on leveraging LLMs to generate prompt engineering examples and structured data. Includes foundational prompts and advanced techniques."
+og_image: "https://docs.bydanielrosehill.com/repos/prompt-library/images/prompt-lab.webp"
 ---
 
 # Use-Case: Using LLMs To Generate Prompt Engineering Examples & Lists
