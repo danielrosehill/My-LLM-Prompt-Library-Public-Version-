@@ -1,5 +1,9 @@
 ---
-title: Code Generation"
+title: The Basics
+og_image: https://docs.bydanielrosehill.com/repos/prompt-library/images/posts/code-gen/coder-sloth-2.webp
+og_title: "How To Use LLMs For Code Generation - Intro"
+description: "How to leverage large language models (LLMs) to generate and debug code."
+
 ---
 
 ![alt text](../../images/posts/code-gen/coder-sloth-2.webp)
