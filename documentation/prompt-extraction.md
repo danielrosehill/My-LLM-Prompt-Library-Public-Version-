@@ -1,3 +1,14 @@
+---
+title: "Use An LLM To Create A Prompt Extraction GUI!"
+description: "Learn how to use a large language model (LLM) to build a simple GUI for prompt extraction."
+social:
+  cards:
+    image: https://docs.bydanielrosehill.com/repos/prompt-library/images/sloth-and-sieve.webp
+og:
+  title: "Use An LLM To Create A Prompt Extraction GUI!"
+  description: "Learn how to use a large language model (LLM) to build a simple GUI for prompt extraction."
+---
+
 # Use an LLM to code a prompt extraction GUI!
 
 ![alt text](../images/sloth-and-sieve.webp)
@@ -48,7 +59,7 @@ The program should copy the text of the prompt {prompt text} and write it as a n
 The filename of the prompt should be {filename}_prompt.md - where {filename} is the file name of the file the prompt was originally derived from. 
 ```
 
-## Obsidian users: you can generate backlinks to!
+## Obsidian users: you can generate backlinks too!
 
 Something I discovered during an early iteration of this process:
 

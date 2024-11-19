@@ -4,6 +4,7 @@ description: "Automate YAML frontmatter creation for markdown files in static si
 keywords: YAML, frontmatter, markdown, static site generator, MKDocs, automation, Google AI Studio, OpenAI, GPT, custom assistant, workflow
 og_title: System Instruction for Generating YAML Frontmatter
 og_description: Automate YAML frontmatter creation for your markdown files and boost your static site generation workflow.  Works with MKDocs and other generators.
+
 ---
 
 ![alt text](../images/frontmatter.png)
