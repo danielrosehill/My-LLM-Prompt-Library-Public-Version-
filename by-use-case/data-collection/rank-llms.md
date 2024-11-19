@@ -1,4 +1,26 @@
-# Gather and rank data
+---
+title: "Ranking LLMs by Training Data Cutoff Dates"
+description: "Ranks major large language models (LLMs) based on the recency of their training data, from newest to oldest cutoff."
+keywords:
+  - LLM
+  - large language models
+  - training data
+  - data cutoff
+  - model comparison
+  - GPT-4
+  - Cohere
+  - Claude
+  - Mistral
+author: "Daniel Rosehill" # Assuming you're the author unless specified otherwise
+date: "2024-11-19" .
+categories:
+  - LLMs
+  - Data Analysis
+  - Comparisons
+robots: "index, follow"
+og_title: "LLM Ranking by Training Data Cutoff"
+og_description: "A comparison of major LLMs based on how recent their training data is."
+---
 
 ## Prompt
 

@@ -1,3 +1,20 @@
+---
+title: "Using LLMs to Generate Prompt Engineering Examples & Lists"
+description: "Explore how to use large language models (LLMs) for generating prompt engineering techniques, examples, and structured data. Learn foundational prompts and advanced strategies for better AI interactions."
+keywords: 
+  - "LLMs"
+  - "prompt engineering"
+  - "AI techniques"
+  - "structured data generation"
+  - "GPT-4"
+  - "advanced prompting"
+author: "Daniel Rosehill"
+date: "2024-11-19"
+robots: "index, follow"
+og_title: "Using LLMs to Generate Prompt Engineering Techniques & Lists"
+og_description: "A comprehensive guide on leveraging LLMs to generate prompt engineering examples and structured data. Includes foundational prompts and advanced techniques."
+---
+
 # Use-Case: Using LLMs To Generate Prompt Engineering Examples & Lists
 
 ![alt text](../../images/prompt-lab.webp)

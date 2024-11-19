@@ -1,8 +1,23 @@
 ---
-title: "Daniel's Prompt Shack"
+title: "Daniel Rosehill Prompt Library"
+description: "Explore a collection of LLM prompts, experiments, and resources for effective prompt engineering, including practical tips and examples."
+keywords:
+  - LLM
+  - large language models
+  - prompt engineering
+  - prompt design
+  - AI prompting
+  - generative AI
+  - ChatGPT
+  - prompt library
+  - AI tools
+  - prompt examples
+author: "Daniel Rosehill"
+image: "/images/banner.webp" 
+robots: "index, follow"
+og_title: "Daniel's Prompt Shack: Your Guide to LLM Prompting"
+og_description: "A collection of practical LLM prompts, experiments, and resources for mastering prompt engineering techniques."
 ---
-
-# Welcome To Daniel's Prompt Library!
 
 ![Prompting sloth](images/banner.webp)
 

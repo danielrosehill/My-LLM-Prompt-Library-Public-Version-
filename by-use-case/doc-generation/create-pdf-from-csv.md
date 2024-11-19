@@ -1,4 +1,26 @@
-# Create A PDF From CSV Data
+---
+title: "Creating PDFs from CSV Data with LLMs"
+description: "Learn how to use large language models to generate PDFs from CSV data, including formatting for guest lists and pivot tables.  A practical example for event management and document generation."
+keywords:
+  - CSV to PDF
+  - LLM
+  - large language model
+  - document generation
+  - event management
+  - PDF generation
+  - data formatting
+  - prompt engineering
+  - automation
+author: "Daniel Rosehill"
+date: "2024-11-19"  
+categories:
+  - Data Processing
+  - Document Automation
+  - LLMs
+robots: "index, follow"
+og_title: "Generate PDFs from CSV with LLMs"
+og_description: "Use LLMs to automate PDF creation from CSV data, ideal for event management and other document generation tasks."
+---
 
 *Use case: event management, document generation*
 
