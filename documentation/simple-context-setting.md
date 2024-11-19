@@ -1,5 +1,5 @@
 ---
-title: "Really easy context setting with LLMs"
+title: "Easy context setting with LLMs"
 description: A simple method for setting contextual data when using LLMs like ChatGPT
 ---
 
