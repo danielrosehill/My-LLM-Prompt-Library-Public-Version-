@@ -52,6 +52,16 @@ Prompt engineering might be a time-limited discipline, to be displaced soon by t
 
  To prompt *experimenteurs* that's endaring and deeply exciting. It's in that spirit of open-ended adventure that these notes are shared.
 
+ ## What's Here
+
+This repository is pushed through Github and (with a bit of luck) it eventually winds up deployed to [docs.bydanielrosehill.com](https://docs.bydanielrosehill.com).
+
+The repo is organised into sections, hierarchically, by folder. As I am wont to change the names of these folders I'll instead give a general topography:
+
+- Use-cases explores various prompting use-cases organised (mostly) into discreet categories. An example of a use-case is "document generation"  
+- Contextual data contains demonstrative chunks of text that can be added to prompts to pass context to the LLM and improve the outputs received  
+
+
 ## Example Prompt
 
 Prompting and "prompt engineering" doesn't have to be complicated. 
@@ -91,25 +101,15 @@ See `GUIs` for a prompt to create a simple (but functional!) Python GUI for savi
 
  ![alt text](images/screenshots/1.png)
 
----
-
-## System / Structure
-
-- A **prompt workspace** for drafting prompts
-- A **prompt library** for storing successful prompts for reuse
-- A **prompts run** for recording *all* prompts run including those not worth committing into the prompt library 
----
 ## Author
 
 Daniel Rosehill  
 (public at danielrosehill dot com)
 
----
 ## Licensing
 
 All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
----
 
 ### Summary of the License
 The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
@@ -117,8 +117,6 @@ The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows ot
 - **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
-
----
 
 #### License Terms
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
