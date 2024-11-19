@@ -2,7 +2,7 @@
 title: "Configure an LLM assistant to generate YAML frontmatter for SSGs"
 description: "Automate YAML frontmatter creation for markdown files in static site generators like MKDocs. This system instruction, suitable for Google AI Studio or OpenAI custom GPTs/assistants, parses uploaded markdown files and generates frontmatter including title, description, keywords, author, date, og_title, and og_description.  Streamline your workflow and avoid repetitive prompting."
 keywords: YAML, frontmatter, markdown, static site generator, MKDocs, automation, Google AI Studio, OpenAI, GPT, custom assistant, workflow
- og_title: System Instruction for Generating YAML Frontmatter
+og_title: System Instruction for Generating YAML Frontmatter
 og_description: Automate YAML frontmatter creation for your markdown files and boost your static site generation workflow.  Works with MKDocs and other generators.
 ---
 
