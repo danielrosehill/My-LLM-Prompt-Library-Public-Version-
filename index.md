@@ -1,28 +1,66 @@
+---
+title: "Daniel's Prompt Shack"
+---
+
 # Welcome To Daniel's Prompt Library!
 
 ![Prompting sloth](images/banner.webp)
 
 *Photo: Daniel seen working hard on his latest LLM prompt*
 
-This repository is both a `prompt library`  *(in the sense of containing prompts that I've finished working with, for now)* as well as a prompt engineering workspace where I share my fumbling progress on prompts that I don't mind sharing with the whole world. 
+This repository is both a `prompt library`  *(in the sense of containing prompts that I've finished working with, for now)* as well as a prompt engineering workspace of sorts where I share my fumbling progress on prompts that I don't mind sharing with the whole world (someone's going to read this at some point, right?!)
 
-For some of the most useful ones, see:
+To my friends, I might be just another person who's gone down the rabbit hole of LLM-mania.
 
-`favorites.md`
+But give me a moment to tell you *why* I think this technology is both so amazing and has massive potential, and I'd begin blabbering on about "use-cases" (I know it's jargony, but I'm still looking for a good synonym). 
 
----
+Like every emerging technology, hyperbole and unfounded negativity surround the subject in equal measure. If the hype of new technologies is commensurate with their potential for good (I think it is) then it's not surprising that LLM-mania is not only all-encompassing but feels, at times, even suffocating.
+
+And as usual when promising new tech comes to market, the truth of what LLMs are useful for gets lost somewhere in the middle. 
+
+What's not an exaggeration to say is that LLMs offer fundamentally different ways for humans to interface with information stored in computer systems. 
+
+They're a rather big deal. But the easy familiarity that "chatting" with ChatGPT offers is also misleading. Like any hugely powerful technology, they demand an investment of time and thinking to yield their benefits. Hence learning how to refine *inputs* to get predictably better *outputs* is an emerging but important field.
+
+## Prompt-huting: The Wild West Of The Great AI Frontier
+
+![alt text](images/wild-west-sloth.webp)
+
+Something else I love about exploring LLMs? 
+
+They're a bit of a Wild West. But in a way that's oddly liberating.
+
+Discovering the ways in which large language models can make life just a little bit easier involves a *huge* amount of trial and error. 
+
+Good books have been written about prompt engineering. But a definitive texthbook on the subject is both elusive and probably impossible. The very *mechanisms* that make LLMs works defy total predictabiliy. 
+
+Even with careful calibration, it's extremely difficult to get (almost) the same two outputs from the same prompt. LLM outputs are the snowflakes of synthetic brains. Although under their hoods are vast arrays of numbers, this innate variances makes them appealing for creative experimentation.
+
+For those of us who work with LLMs professionally, prompt engineering can be both a passion and part of our job. Which is why I like the fact that doing this kind of work is often arduous, gritty, and frustrating. 
+
+ LLMs are the masters of deadpan literalism and hugely instructive in things us humans rarely think about like the extent to which our daily speech is suffused with all kinds of colloquialisms that - interpreted literally - make almost no sense. 
+
+ The frenzied pace of development in the LLM market is both exciting and frustrating. Among all the hype about the *potential* of AGI (etc etc) it feels like very basic topics - like who owns the IP in LLM outputs and whether anybody has thought critically about the cultural bias passed on by the selection of materials for training data- are forever destined to remain ignored. 
+
+But perhaps, right now, that's part of the wacky appeal of these technologies.
+
+![alt text](images/gpu-award.webp)
+
+So much is unknown about how neural networks trained on vast globs of information can shape the world for the better. With the vast amount of prompting taking place on a daily basis - and the quickly maturing potential of AI to speed up drug development through shortlisting promising molecules from vast permutations of combinations of chemicals - it's only a matter of time before the next Nobel Prize will be justifiably awarded to .... Mr Tensor Processing Unit sitting in an AWS data center somewhere in a field in a forgotten corner of the world.
+
+Prompt engineering might be a time-limited discipline, to be displaced soon by the next means of leveraging AI. Figuring out how to *use* AI is both a moving target and a lagging one: by the time one feels the first inklings of mastery over one model an entirely new one has supplanted it. But although the field is in its infancy the first 
+
+ To prompt *experimenteurs* that's endaring and deeply exciting. It's in that spirit of open-ended adventure that these notes are shared.
 
 ## Example Prompt
 
-I love discovering new use-cases and prompting strategies for LLMs!
-
 Prompting and "prompt engineering" doesn't have to be complicated. 
 
-My favorite method for making LLMs much more useful is storing an inventory of: previous prompts; previous outputs; context-settings snippets. 
+A huge amount can be achieved with some light touch organisation. I'll share a basic scaffold that I've developed for working with LLMs soon.
 
-For want of a better word, I call it my LLM "Workbench" (although I'm working on a formal GUI for it, it could just as easily be a collection of markdown files in a Github repo!)
+Among the huge excitement about RAG and increasingly powerful models, remarkably little attention has been paid to the boring but rather important question of how users (especially businesses) should *store* the information generated by generative AI tools. 
 
-Here's a very simple use-case that (I hope) shows why storing LLM elements like prompts and outputs can come in handy in *many* ways by enabling lots of secondary purposes like using your previous prompts to improve your current ones.
+Many regard the very idea of *storing* generations - or of framing AI outputs as anything analogous to "knowledge"
 
 The steps:
 
