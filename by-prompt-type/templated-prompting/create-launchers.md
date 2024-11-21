@@ -14,7 +14,7 @@ I like to use Nuclino (the notes editor) and Perplexity (the AI tool) side by si
 
 ## Tips
 
-As always, specificity is key, which is why I volunteered the information that I'm using KDE Plasma (specifically) as it's not the default DE and the LLM will not know that that's what you're using without prior context.
+As always, specificity is key to succeeding, which is why I volunteered the information that I'm using KDE Plasma (specifically) as it's not the default DE and the LLM will not know that that's what you're using without prior context.
 
 ## Variables
 
