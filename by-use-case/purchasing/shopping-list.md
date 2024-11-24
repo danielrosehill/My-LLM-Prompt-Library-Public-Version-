@@ -94,6 +94,7 @@ We can then use prompt chaining to drill down into our shortlist, like this:
 
 ### Shortlist matrix
 
+```text
 I like:
 
 Keyboard 1 
@@ -101,3 +102,4 @@ Keyboard 3
 Keyboard 6
 
 Generate a comparison matrix for those 3 keyboards, formatting your output in markdown.
+```
