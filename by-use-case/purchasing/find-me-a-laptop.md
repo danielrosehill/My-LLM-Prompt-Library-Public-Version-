@@ -2,8 +2,9 @@
 title: "Buying a new laptop"
 ogtitle: "Using ChatGPT To Buy A New Laptop"
 ogdescription: "How to use ChatGPT to zone in on a great laptop purchase!"
-image: "https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/images/purchasing/laptop-sloth-3.jpeg"
----
+meta:
+  og:image: "https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/images/purchasing/laptop-sloth-3.jpeg"
+ ---
 
 ![alt text](../../images/buying-laptop.webp)
 
