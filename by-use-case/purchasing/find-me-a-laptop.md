@@ -1,5 +1,7 @@
 ---
 title: "Buying a new laptop"
+ogtitle: "Using ChatGPT To Buy A New Laptop"
+ogdescription: "How to use ChatGPT to zone in on a great laptop purchase!"
 ---
 
 ![alt text](../../images/buying-laptop.webp)
