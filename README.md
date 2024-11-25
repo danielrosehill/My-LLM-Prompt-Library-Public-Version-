@@ -23,11 +23,31 @@ og_description: "A collection of practical LLM prompts, experiments, and resourc
 
 *Photo: Daniel seen working hard on his latest LLM prompt*
 
+## Daniel Rosehill LLM Prompt Library
+
+### The best parts (I think)
+
+There's nothing particularly special or remarkable about this collection of prompts.
+
+But the most interesting part might be my methodology for injecting `'context snippets'` into LLMs.
+
+A guide to what I mean by that is [here](documentation/simple-context-setting).
+
+But basically:
+
+Collating small snippets of information about yourself (or your career goals, or whatever) and appending them to prompts (whether through dragging and dropping in a file; copying and pasting; or adding them programatically).
+
+There are some examples of context snippets in `contextual-data` but there's a very, very long list of things that you any given person *might* want to record as context for improving LLM inference.  So consider it a very small smattering of examples just for the purpose of illustration.
+
+To state the obvious: RAG is *way* more sophisticated and powerful than collating little text snippets but *(I believe and am experimenting with the idea)* that a humble snippet library can serve as the pipeline for a proper RAG system. 
+
+Thinking a little down the line, I think we're going to need to be realistic: RAG is great but probably overskill for small personal needs. Better systems for maintaining chat memory will almost certainly displace the relevance of this approach. But we still might see independent value in curating our own library of small data about ourselves that isn't joined at the hip to any one LLM or ecosystem...
+
+### What's here (prompts, of course, but you know..)
+
 This repository is both a `prompt library`  *(in the sense of containing prompts that I've finished working with, for now)* as well as a prompt engineering workspace of sorts where I share my fumbling progress on prompts that I don't mind sharing with the whole world (someone's going to read this at some point, right?!)
 
-To my friends, I might be just another person who's gone down the rabbit hole of LLM-mania.
-
-But give me a moment to tell you *why* I think this technology is both so amazing and has massive potential, and I'd begin blabbering on about "use-cases" (I know it's jargony, but I'm still looking for a good synonym). 
+To my friends, I might be just another person who's gone down the rabbit hole of LLM-mania. But give me a moment to tell you *why* I think this technology is both so amazing and has massive potential, and I'd begin blabbering on about "use-cases."
 
 Like every emerging technology, hyperbole and unfounded negativity surround the subject in equal measure. If the hype of new technologies is commensurate with their potential for good (I think it is) then it's not surprising that LLM-mania is not only all-encompassing but feels, at times, even suffocating.
 
@@ -66,16 +86,6 @@ So much is unknown about how neural networks trained on vast globs of informatio
 Prompt engineering might be a time-limited discipline, to be displaced soon by the next means of leveraging AI. Figuring out how to *use* AI is both a moving target and a lagging one: by the time one feels the first inklings of mastery over one model an entirely new one has supplanted it. But although the field is in its infancy the first 
 
  To prompt *experimenteurs* that's endaring and deeply exciting. It's in that spirit of open-ended adventure that these notes are shared.
-
- ## What's Here
-
-This repository is pushed through Github and (with a bit of luck) it eventually winds up deployed to [docs.bydanielrosehill.com](https://docs.bydanielrosehill.com).
-
-The repo is organised into sections, hierarchically, by folder. As I am wont to change the names of these folders I'll instead give a general topography:
-
-- Use-cases explores various prompting use-cases organised (mostly) into discreet categories. An example of a use-case is "document generation"  
-- Contextual data contains demonstrative chunks of text that can be added to prompts to pass context to the LLM and improve the outputs received  
-
 
 ## Example Prompt
 
