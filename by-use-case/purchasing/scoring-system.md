@@ -8,7 +8,7 @@ The perfect solution when you're looking for that perfect something but having a
 
 We could prompt like this:
 
-### Classic point with no scoring system
+### V1: "Normal" prompt without scoring system
 
 ```text
  I'm looking for a keyboard:
@@ -36,14 +36,18 @@ For each match, list:
 Format the output as a markdown table evaluating the options according to each of these parameters
 ```
 
-### Or ... we could devise a scoring system!
+## V2: Deeper evaluation with ranking system
+
+For this version of the prompt I added a  few more parameters to try finally find this keyboard!
+
+### Prompt
 
 I'm looking for a keyboard:
 
 These features are essential (group A):
 
-- Ergonomic layout
--  Quiet / silent operation
+- Ergonomic design (split layout etc)
+- Quiet / silent operation
 - No RGB or ability to disable RGB
 
 These features are less essential but still important to me (group B):
@@ -55,12 +59,18 @@ And finally, these features are less important but also desirable (group C):
 
 - Macro keys
 
-Find the best 5 matches and grade them like this:
+Must be:
+
+- RRP <  $300
+- Available for Prime delivery on Amazon.com
+
+Find the best 5 matches. Then rank them with this scoring system:
 
 -  For each feature in group A, they get 3 points  
 -  For each feature in group B, they get 2 points  
 -  For each feature in group C, they get 1 point
+-  If it has RGB, it gets deducted 6 points
 
-Format your output like this, as a winner table, using a markdown table:
+Finally, format your output like this, as a winner table, using a markdown table:
 
 Product Name |   RRP  |  Total Points
