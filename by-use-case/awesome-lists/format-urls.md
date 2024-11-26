@@ -49,3 +49,9 @@ Install code:
 ## Usage
 
 If the configuration instruction worked, you should be able to just paste a URL and get exactly the desired template back in a codeblock for easy population into your markdown file.
+
+## Delimeters
+
+For custom agents supporting dynamic prompting and limited real time search retrieval, you can limit search activity to this URI:
+
+`marketplace.visualstudio.com`
