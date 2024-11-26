@@ -1,3 +1,7 @@
+---
+title: "General purchasing rec template"
+---
+
 # Prompt template for gathering purchasing recommendations
 
 ![alt text](../../images/banners/sloth-shopping.webp)
