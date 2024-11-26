@@ -8,6 +8,8 @@ The perfect solution when you're looking for that perfect something but having a
 
 We could prompt like this:
 
+### Classic point with no scoring system
+
 ```text
  I'm looking for a keyboard:
 
@@ -34,7 +36,7 @@ For each match, list:
 Format the output as a markdown table evaluating the options according to each of these parameters
 ```
 
-## Or ... we could devise a scoring system!
+### Or ... we could devise a scoring system!
 
 I'm looking for a keyboard:
 
