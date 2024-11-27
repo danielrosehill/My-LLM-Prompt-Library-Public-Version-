@@ -1,5 +1,5 @@
 ---
-title: "Prompt reverse engineering"
+title: "Is this the best way to do this?"
 ---
 
 # Here's a prompt, how could I use an LLM most effectively?
@@ -16,7 +16,7 @@ Take the below example: I took a fairly basic assistant configuration text, but 
 
 Roughly saying something like:
 
-> Let's pause for a moment. Is configuring this as an assistant actually the most logical way wto achieve this pretty simple job? What about using a prompt template? Or ... perhaps you can think of a better idea again?
+> Let's pause for a moment. Is configuring this as an assistant actually the most logical way to achieve this pretty simple job? What about using a prompt template? Or ... perhaps you can think of a better idea again?
 
 Like many, this prompting strategy works off the assumed premise that LLMs have good foundational/domain knowledge about prompt engineering and LLMs  - which isn't always a safe one.
 
