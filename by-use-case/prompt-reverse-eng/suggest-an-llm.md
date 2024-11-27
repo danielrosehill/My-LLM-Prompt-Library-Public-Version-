@@ -36,3 +36,11 @@ Recommend an LLM that you think would generate the best output.
 
 For the purpose of this prompt, "best" means: most useful and valuable to producing the type of information you can infer I'm looking for from my prompt.
 ```
+
+## Image generation
+
+Another experiment worth trying out is seeing whether a textual LLM (or a multimodal LLM) can guide you towards a good image generation LLM based upon the prompt.
+
+Example usage:
+
+> Which image generation AI tool do you think would produce the best output for the following prompt:
